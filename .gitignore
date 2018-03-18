@@ -104,3 +104,30 @@ ENV/
 *.t7
 *.log
 models/
+
+
+Your response has been recorded.
+=====The PRL data:=====
+Please click here to download the data as made available by the PRL
+paper :
+http://download.fz-juelich.de/ibg-2/Plant_Phenotyping_Datasets.zip
+=====Evaluation tools:=====
+Additional tools to evaluate (and organize) the data are available here:
+http://www.plant-phenotyping.org/datasets-download
+=====CVPPP datasets=====
+Furthermore, due to several requests, we provide here all the *training*
+datasets that supported the CVPPP (LSC or LCC) challenges:
+CVPPP 2014:
+http://download.fz-juelich.de/ibg-2/CVPPP2014_LSC_training_data.zip
+CVPPP 2015:
+http://download.fz-juelich.de/ibg-2/CVPPP2015_LCC_training_data.zip
+http://download.fz-juelich.de/ibg-2/CVPPP2015_LSC_training_data.zip
+CVPPP 2017 ***:
+http://download.fz-juelich.de/ibg-2/CVPPP2017_LCC_training.zip
+http://download.fz-juelich.de/ibg-2/CVPPP2017_LSC_training.zip
+*** The 2017 version includes also datasets from another lab. So if
+you use the A4 dataset ensure to cite the relevant work as well. See
+here for details: https://www.plant-phenotyping.org/CVPPP2017-challenge
+Testing sets are not publicly available (they are blind) but if you want
+to test on the datasets for comparisons, please email (Dr Tsaftaris,
+S.Tsaftaris@ed.ac.uk ; Dr. Scharr, h.scharr@fz-juelich.de ) for advice.
